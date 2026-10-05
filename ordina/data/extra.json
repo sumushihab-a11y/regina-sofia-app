@@ -1,0 +1,247 @@
+[
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Cornicione ripieno ricotta e pepe",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Doppio impasto",
+    "prezzo_eur": 1.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Salsiccia",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Crudo di Parma",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Funghi champignon",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Funghi porcini",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Fior di latte di Agerola",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Burrata",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Provola affumicata",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Bocconcini di Bufala",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Bufala",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Cotto",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Scagli di grana",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Olive nere di Gaeta",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Olive verdi di Gaeta",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Olive taggiasche",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Ricotta",
+    "prezzo_eur": 2.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Acciughe di Cetara",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Acciughe del Catabrico confezione 50 gr",
+    "prezzo_eur": 10.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Capperi",
+    "prezzo_eur": 1.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Origano",
+    "prezzo_eur": 0.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Doppio pomodoro passata Sammorzano",
+    "prezzo_eur": 1.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Pomodori secchi del Cilento",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Pomodorini rossi",
+    "prezzo_eur": 2.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Pomodorini del Piennolo giallo",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Pomodorini del Piennolo rossi",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Bresaola",
+    "prezzo_eur": 4.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Salame piccante",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Salame Napoli",
+    "prezzo_eur": 2.2
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Patate fritte",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Melanzane fritte",
+    "prezzo_eur": 2.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Friarelli Inflorescenze cime di rapa",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Cipolla rossa",
+    "prezzo_eur": 0.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Scarola",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Ruccola",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Crocchette di patate",
+    "prezzo_eur": 4.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Carciofi",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Zucchine grigliate",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Peperoni",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Tonno Callipo 80 gr",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Zucca",
+    "prezzo_eur": 2.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Gorgonzola",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Pancetta",
+    "prezzo_eur": 3.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Wrustel di pollo ",
+    "prezzo_eur": 2.5
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Salmone affumicato",
+    "prezzo_eur": 5.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Noci",
+    "prezzo_eur": 2.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Mortadella IGP",
+    "prezzo_eur": 3.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Speck",
+    "prezzo_eur": 4.0
+  },
+  {
+    "gruppo": "Aggiungi Ingredienti",
+    "nome": "Nduja di spilinga",
+    "prezzo_eur": 2.5
+  }
+]

@@ -1,0 +1,99 @@
+﻿Categoria;Nome;Descrizione;Prezzo EUR;Esaurito
+LE PIZZE;MARINARA;"Pomodoro San Marzano, aglio, olio EVO ""Il Vecchio Oliveto"" e origano";5,50;No
+LE PIZZE;REGINA MARGHERITA;Pomodoro San Marzano, fior di latte  Agerola e basilico;7,50;No
+LE PIZZE;REGINA SOFIA;Mozzarella di bufala DOP, salsa di pomodoro giallo del Piennolo del Vesuvio, capperi e olive di Gaeta;10,00;No
+LE PIZZE;MASSESE;Pomodoro di San Marzano, fior di latte di Agerola e salame piccante;9,50;No
+LE PIZZE;SICILIANA;Pomodoro di San Marzano, fior di latte di Agerola e melanzane fritte;10,00;No
+LE PIZZE;BOLOGNESE;"Fior di latte Agerola, mortadella IGP Bologna, pistacchio di Bronte DOP e olio EVO ""Il Vecchio Oliveto""";10,00;No
+LE PIZZE;VERACE;Pomodoro San Marzano, mozzarella di bufala DOP e olio EVO “Il Vecchio Oliveto”;10,00;No
+LE PIZZE;CREPARELLA;Mozzarella di bufala, fior di latte di Agerola, funghi porcini e noci del Cilento;10,00;No
+LE PIZZE;ORTOLANA;Pomodoro San Marzano, fior di latte di Agerola, melanzane fritte, zucchine e peperoni al forno;10,00;No
+LE PIZZE;CALZONE RIPIENO;Pomodoro San Marzano, for di latte di Agerola, ricotta di bufala DOP, salame Napoli e pepe nero;10,00;No
+LE PIZZE;MARUZZELLA;Pomodoro San Marzano, for di latte di Agerola, acciughe del Cilento, capperi, olive e origano;10,00;No
+LE PIZZE;CATARÌ;Fior di latte Agerola, scarola, olive di Gaeta, capperi di Paestum, pecorino del Cilento e acciughe di Cetara;12,00;No
+LE PIZZE;COCOZZELLA;Fior di latte di Agerola, provola affumicata DOP, crema di zucca, salsiccia e ‘nduja;12,00;No
+LE PIZZE;TUFFATORE;Mozzarella di bufala DOP, for di latte di Agerola, olive di Gaeta, capperi del Basso Cilento e pomodori secchi di Paestum;12,00;No
+LE PIZZE;4 FORMAGGI;Fior di latte di Agerola, gorgonzola, Emmental e Parmigiano Reggiano;12,00;No
+LE PIZZE;BUFALINA;Salsa di pomodorini rossi del Piennolo del Vesuvio, provola affumicata DOP, salame Napoli, ricotta di bufala e pepe nero;12,00;No
+LE PIZZE;CALABRISELLA;Pomodoro San Marzano, burrata e ‘nduja di Spilinga “Monteporo”;10,00;No
+LE PIZZE;PAESTUM;Pomodoro San Marzano, mozzarella di bufala DOP, carciofi e pomodorini di Paestum;10,00;No
+LE PIZZE;BOSCAIOLA;Fior di latte, salsiccia artigianale di Agerola, funghi porcini e olio al tartufo;11,50;No
+LE PIZZE;BATTIPAGLIESE;Salsa di pomodorini gialli del Piennolo del Vesuvio, fior di latte di Agerola e all’uscita scaglie di parmigiano;11,50;No
+LE PIZZE;DONNA PEPPA;Fior di latte di Agerola, farcita all’uscita con crudo di Parma, rucola e scaglie di parmigiano ;11,50;No
+LE PIZZE;FUNICULÌ;Salsa di pomodorini rossi del Piennolo del Vesuvio, bocconcini di mozzarella di bufala DOP e all’uscita scaglie di parmigiano ;12,00;No
+LE PIZZE;PUTIPÙ;provola affumicata DOP, pomodorino ciliegino, rucola selvatica, pesto Genovese, caciotta di bufala Dop e pepe nero;11,00;No
+LE PIZZE;PALUMMÉ;Focaccia farcita con bocconcini di bufala DOP, pomodorini di Paestum, basilico e rucola selvatica;11,00;No
+LE PIZZE;FUMARELLA;Fior di latte di Agerola, provola, pancetta, patate al forno, olive nere e pepe;11,00;No
+LE PIZZE;LINORA;Fior di latte di Agerola, ciuff di ricotta, crema di zucca e acciughe del Cilento;10,00;No
+LE PIZZE;ARENACCIA;Fior di latte di Agerola, provola, prosciutto cotto e quattro crocchette di patate;11,00;No
+LE PIZZE;PADULESE;Pomodoro San Marzano, basilico, provola di Agerola, ricotta di bufala e pepe nero;10,00;No
+LE PIZZE;SANTO STEFANO;Tre gusti: salame Napoli e ricotta e pepe, margherita e “Donna Peppa” (vedi pizza Donna Peppa);12,00;No
+LE PIZZE;CAPRICCIOSA;Pomodoro San Marzano, for di latte di Agerola, prosciutto cotto “Nazionale”, funghi champignon saltati in padella, olive nere di Gaeta e carciof IGT di Paestum (se reperibili);12,00;No
+LE PIZZE;I GIRASOLI (dal flm di Sophia Loren);Fior di latte di Agerola, fori di zucca, patate lesse, olio Evo “il Vecchio Oliveto” e olive taggiasche;10,50;Sì
+LE PIZZE;NOCERINA;Fiordilatte, provola, salame Napoli, patate schiacciate e olive nere di Gaeta;12,00;No
+LE PIZZE;FRITTA SELE;;10,00;Sì
+LE PIZZE;CALZONE NAPOLI;Calzone fritto con for di latte Agerola, ricotta di bufala, salame Napoli e pepe nero;10,00;No
+LE PIZZE;CASERTANA;Fior di latte di Agerola, provola, salsiccia, friarielli (inforescienze di cime di rapa) saltati con aglio, olio EVO e peperoncino;11,00;Sì
+LE PIZZE;SAPORE DI MARE;Olio EVO “Il Vecchio Oliveto”, pomodoro San Marzano, cozze, vongole, seppie, polpo e gamberi;15,00;Sì
+GLI SFIZI;ARANCINI 4 PZ;Palle di riso fritto con ragù, mozzarella, prosciutto cotto, piselli e zafferano;5,00;Sì
+GLI SFIZI;CROCCHE’ 4 PZ;Patate schiacciate, uova, formaggio, sale e pepe;5,00;No
+GLI SFIZI;Á BRUSCHETTA;;5,00;Sì
+GLI SFIZI;LA PARMIGIANA DI MELANZANE;;9,00;Sì
+GLI SFIZI;ZEPPOLINE ALLE ALGHE (circa 10 pezzi);Pasta cresciuta con lattuga di mare (alghe marine certifcate);5,00;No
+GLI SFIZI;BRUSCHETTE MISTE;Quattro bruschette di pane grigliato, miste mare e monti: Salmone marinato e cipolla di Tropea candita / Melanzane a funghetto e provola DOP / Zucchine alla scapece e gamberetti / Pancetta di Agerola con pomodorini secchi e provolone del monaco;8,00;Sì
+GLI SFIZI;MONTANARE CLASSICHE 3PZ;Tre pizzette fritte con pomodoro San Marzano, basilico e Parmigiano Reggiano;6,50;No
+GLI SFIZI;MONTANARE DEL PIENNOLO 3PZ;Tre pizzette fritte con pomodoro giallo del Piennolo del Vesuvio e acciughe del Cilento;8,50;No
+GLI SFIZI;IL CUOPPO;Crocchè / Arancini / Mozzarelline fritte / Zeppoline alle alghe / Frittata di bucatini;12,00;No
+GLI SFIZI;NORD&SUD;Focaccia farcita con prosciutto di Parma, bocconcini di bufala DOP e rucola;16,00;No
+GLI SFIZI;LA BUFALA DA 250G;Mozzarella di bufala DOP da 250g con pomodorini di Paestum, rucola, olio EVO “Il Vecchio Oliveto”, sale e basilico;12,00;No
+GLI SFIZI;FRITTATINE DI BUCATINI 4 PZ;;5,00;No
+GLI SFIZI;Mozzarelline Fritte pz.5;;5,00;No
+PANUOZZI;PALINURO;Mozzarella di bufala DOP, insalata, fletto di pomodoro e crudo di Parma;12,00;No
+PANUOZZI;AGROPOLI;Fior di latte di Agerola, scarola saltata in padella con acciughe, capperi e olive taggiasche, aglio e olio EVO “Il Vecchio Oliveto”;10,00;Sì
+PANUOZZI;CAFASSO;Fior di latte di Agerola, provola, salsiccia, friarielli (inforescienze di cime di rapa) saltati con aglio, olio EVO e peperoncino;10,00;Sì
+CONTORNI ;PATATE FRITTE;;4,50;No
+CONTORNI ;SCAROLA;Scarola saltata in padella con con aglio, olio EVO “Il Vecchio Oliveto”, acciughe, capperi e olive taggiasche;5,00;Sì
+CONTORNI ;MELANZANE A FUNGHETTO;Melanzane fritte con pomodorini e basilico;5,00;Sì
+CONTORNI ;INSALATA DI RUCOLA ARANCE E NOCI;;6,00;Sì
+CONTORNI ;FRIARELLI;(inforescienze di cime di rapa) saltati con aglio, olio EVO e peperoncino ;5,00;Sì
+DOLCI;Zeppole alla Nutella;;6,00;No
+DOLCI;LE GRAFFE;Morbide ciambelle fritte con “Nutella” e zucchero a velo ;6,00;No
+DOLCI;DELIZIA AL LIMONE;Tipico dolce di Sorrento a base di pan di spagna e ricoperto di crema ai limoni di Sorrento;6,00;Sì
+DOLCI;PASTIERA NAPOLETANA;La più antica ricetta della pastiera napoletana, con grano cotto e ricotta ‘’fatta dai nostri Chef’’;6,00;Sì
+DOLCI;BABÀ;;6,00;No
+DOLCI;CHEESECAKE;Delizioso dolce fatto in casa con base di biscotto classico “Digestive’’, con crema di ricotta vaccina, guarnito al gusto di cioccolato o caramello o frutta di stagione;6,00;Sì
+DOLCI;PANNA COTTA;Dolce fatto in casa, guarnito al gusto di cioccolato o caramello o frutta di stagione;5,00;Sì
+DOLCI;PROFITEROLES - Copy;Bignè ripieno di panna e ricoperto di cioccolato fondente;6,00;Sì
+DOLCI;PANNA COTTA;Dolce fatto in casa, guarnito al gusto di cioccolato o caramello o frutta di stagione;5,00;Sì
+DOLCI;TIRAMISÙ;;6,00;Sì
+DOLCI;RICOTTA E PERE;Dolce tipico della Costiera Amalfitana, con cialda alla nocciola ricotta di bufala DOP e pere Abate;6,00;Sì
+DOLCI;PROFITEROLES;Bignè ripieno di panna e ricoperto di cioccolato fondente;6,00;Sì
+DOLCI;PANNA COTTA (SENZA GLUTINE);;5,00;Sì
+DOLCI;TORTINO CUORE CALDO fondente;;6,00;Sì
+BAR ;BIBITE IN LATTINA (0,33 lt.);;3,00;No
+BAR ;BIBITE IN VETRO (0,33 lt.);;3,50;Sì
+BAR ;ACQUA PLASTICA (0,5 di lt.);;1,50;No
+BIRRE;MORETTI IPA (33cl);;4,00;No
+BIRRE;MORETTI FILTRATA A FREDDO (33cl);Lager beer 4,3% vol;3,50;No
+BIRRE;BIRRA MESSINA CRISTALLI DI SALE (33cl);Lager beer 5% vol;4,00;No
+BIRRE;HEINEKEN (33cl);Lager Plus 4% vol.;3,50;No
+BIRRE;ICHNUSA NON FILTRATA (50 cl);Lager beer 5% vol.;4,50;No
+BIRRE;BIRRA MORETTI ZERO (33 cl);Lager beer 0,05% vol. ANALCOLICA;4,00;No
+BIRRE;RADLER (33 cl);Bevanda leggermente alcolica 2% vol.;4,00;No
+BIRRE;DAURA GLUTEN FREE (33 cl);Lager beer 5,4% vol;4,00;Sì
+BIRRE;Birra Moretti Bionda Lattina Cl.33;;3,00;No
+BIRRE;BAFFO D’ORO (33cl);Lager beer 4,8% vol.;4,00;No
+VINI;OTELLO “200” LAMBRUSCO IGT;Vol. 11% Cantina Ceci (PR);15,00;No
+VINI;AGLIANICONE CASTEL SAN LORENZO IGP;Vol. 12,5% Donnachiara Avellino (AV) ;15,00;Sì
+VINI;CHIANTI CLASSICO DOCG;Vol. 13% Cantina Banf (SI);16,00;No
+VINI;RUBRATO DOC IRPINIA;;18,00;Sì
+VINI;ROSSO DI MONTALCINO DOC;Sangiovese di Toscana Vol. 12,5% Cantina Banf (SI);24,00;Sì
+VINI;JUNGANO IGP;Paestum Aglianico Vol. 14% Tenuta San Salvatore Stio (SA);26,00;Sì
+VINI;PIGNOLETTO ARGO;Pignoletto dei Colli Bolognesi Vol. 11,5% Bacco&co (BO);12,00;No
+VINI;RIBOLLA GIALLA VIGNA DEL LAURO;Vol. 13% Friuli Venezia Giulia (GO) ;20,00;Sì
+LA DISPENSA;PANELLA E PANE (FILONE DI PANE);1 KG  DI PANE PRODOTTO CON FARINA CAPUTO E OLIO EXTRA VERGINE DI OLIVA  ACQUA E SALE;4,00;Sì
+LA DISPENSA;Olio extra vergine di Oliva di Paestum (SA) 250 ml;;5,00;Sì
+LA DISPENSA;Olio extra vergine di Oliva di Paestum (SA) 1 litro;;14,00;Sì
+LA DISPENSA;Olio extra vergine di Oliva di Paestum (SA) 5 litri;;69,00;Sì
+LA DISPENSA;N'duja di Spilinga Callipo 200 gr;;6,89;Sì
+LA DISPENSA;Fresella Integrale 400 gr;;4,90;Sì

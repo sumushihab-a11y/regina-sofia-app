@@ -23,7 +23,11 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html style.css app.js sw.js manifest.webmanifest _site/
-          cp -R assets data downloads regina-sofia _site/
+          cp -R assets data downloads regina-sofia ordina _site/
+          mkdir -p _site/report
+          cp report/index.html report/*.csv report/*.json _site/report/
+          test -s _site/ordina/app.js
+          test -s _site/report/index.html
           test -s _site/downloads/Regina-Sofia-anteprima.apk
           test -s _site/regina-sofia/index.html
           (cd _site/downloads && sha256sum -c SHA256SUMS.txt)

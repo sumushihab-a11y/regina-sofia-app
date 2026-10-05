@@ -1,0 +1,884 @@
+[
+  {
+    "categoria": "LE PIZZE",
+    "nome": "MARINARA",
+    "descrizione": "Pomodoro San Marzano, aglio, olio EVO \"Il Vecchio Oliveto\" e origano",
+    "prezzo_eur": 5.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "REGINA MARGHERITA",
+    "descrizione": "Pomodoro San Marzano, fior di latte  Agerola e basilico",
+    "prezzo_eur": 7.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "REGINA SOFIA",
+    "descrizione": "Mozzarella di bufala DOP, salsa di pomodoro giallo del Piennolo del Vesuvio, capperi e olive di Gaeta",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "MASSESE",
+    "descrizione": "Pomodoro di San Marzano, fior di latte di Agerola e salame piccante",
+    "prezzo_eur": 9.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "SICILIANA",
+    "descrizione": "Pomodoro di San Marzano, fior di latte di Agerola e melanzane fritte",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "BOLOGNESE",
+    "descrizione": "Fior di latte Agerola, mortadella IGP Bologna, pistacchio di Bronte DOP e olio EVO \"Il Vecchio Oliveto\"",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "VERACE",
+    "descrizione": "Pomodoro San Marzano, mozzarella di bufala DOP e olio EVO “Il Vecchio Oliveto”",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "CREPARELLA",
+    "descrizione": "Mozzarella di bufala, fior di latte di Agerola, funghi porcini e noci del Cilento",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "ORTOLANA",
+    "descrizione": "Pomodoro San Marzano, fior di latte di Agerola, melanzane fritte, zucchine e peperoni al forno",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "CALZONE RIPIENO",
+    "descrizione": "Pomodoro San Marzano, for di latte di Agerola, ricotta di bufala DOP, salame Napoli e pepe nero",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "MARUZZELLA",
+    "descrizione": "Pomodoro San Marzano, for di latte di Agerola, acciughe del Cilento, capperi, olive e origano",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "CATARÌ",
+    "descrizione": "Fior di latte Agerola, scarola, olive di Gaeta, capperi di Paestum, pecorino del Cilento e acciughe di Cetara",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "COCOZZELLA",
+    "descrizione": "Fior di latte di Agerola, provola affumicata DOP, crema di zucca, salsiccia e ‘nduja",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "TUFFATORE",
+    "descrizione": "Mozzarella di bufala DOP, for di latte di Agerola, olive di Gaeta, capperi del Basso Cilento e pomodori secchi di Paestum",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "4 FORMAGGI",
+    "descrizione": "Fior di latte di Agerola, gorgonzola, Emmental e Parmigiano Reggiano",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "BUFALINA",
+    "descrizione": "Salsa di pomodorini rossi del Piennolo del Vesuvio, provola affumicata DOP, salame Napoli, ricotta di bufala e pepe nero",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "CALABRISELLA",
+    "descrizione": "Pomodoro San Marzano, burrata e ‘nduja di Spilinga “Monteporo”",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "PAESTUM",
+    "descrizione": "Pomodoro San Marzano, mozzarella di bufala DOP, carciofi e pomodorini di Paestum",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "BOSCAIOLA",
+    "descrizione": "Fior di latte, salsiccia artigianale di Agerola, funghi porcini e olio al tartufo",
+    "prezzo_eur": 11.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "BATTIPAGLIESE",
+    "descrizione": "Salsa di pomodorini gialli del Piennolo del Vesuvio, fior di latte di Agerola e all’uscita scaglie di parmigiano",
+    "prezzo_eur": 11.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "DONNA PEPPA",
+    "descrizione": "Fior di latte di Agerola, farcita all’uscita con crudo di Parma, rucola e scaglie di parmigiano ",
+    "prezzo_eur": 11.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "FUNICULÌ",
+    "descrizione": "Salsa di pomodorini rossi del Piennolo del Vesuvio, bocconcini di mozzarella di bufala DOP e all’uscita scaglie di parmigiano ",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "PUTIPÙ",
+    "descrizione": "provola affumicata DOP, pomodorino ciliegino, rucola selvatica, pesto Genovese, caciotta di bufala Dop e pepe nero",
+    "prezzo_eur": 11.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "PALUMMÉ",
+    "descrizione": "Focaccia farcita con bocconcini di bufala DOP, pomodorini di Paestum, basilico e rucola selvatica",
+    "prezzo_eur": 11.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "FUMARELLA",
+    "descrizione": "Fior di latte di Agerola, provola, pancetta, patate al forno, olive nere e pepe",
+    "prezzo_eur": 11.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "LINORA",
+    "descrizione": "Fior di latte di Agerola, ciuff di ricotta, crema di zucca e acciughe del Cilento",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "ARENACCIA",
+    "descrizione": "Fior di latte di Agerola, provola, prosciutto cotto e quattro crocchette di patate",
+    "prezzo_eur": 11.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "PADULESE",
+    "descrizione": "Pomodoro San Marzano, basilico, provola di Agerola, ricotta di bufala e pepe nero",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "SANTO STEFANO",
+    "descrizione": "Tre gusti: salame Napoli e ricotta e pepe, margherita e “Donna Peppa” (vedi pizza Donna Peppa)",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "CAPRICCIOSA",
+    "descrizione": "Pomodoro San Marzano, for di latte di Agerola, prosciutto cotto “Nazionale”, funghi champignon saltati in padella, olive nere di Gaeta e carciof IGT di Paestum (se reperibili)",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "I GIRASOLI (dal flm di Sophia Loren)",
+    "descrizione": "Fior di latte di Agerola, fori di zucca, patate lesse, olio Evo “il Vecchio Oliveto” e olive taggiasche",
+    "prezzo_eur": 10.5,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "NOCERINA",
+    "descrizione": "Fiordilatte, provola, salame Napoli, patate schiacciate e olive nere di Gaeta",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "FRITTA SELE",
+    "descrizione": "",
+    "prezzo_eur": 10.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "CALZONE NAPOLI",
+    "descrizione": "Calzone fritto con for di latte Agerola, ricotta di bufala, salame Napoli e pepe nero",
+    "prezzo_eur": 10.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": true
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "CASERTANA",
+    "descrizione": "Fior di latte di Agerola, provola, salsiccia, friarielli (inforescienze di cime di rapa) saltati con aglio, olio EVO e peperoncino",
+    "prezzo_eur": 11.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LE PIZZE",
+    "nome": "SAPORE DI MARE",
+    "descrizione": "Olio EVO “Il Vecchio Oliveto”, pomodoro San Marzano, cozze, vongole, seppie, polpo e gamberi",
+    "prezzo_eur": 15.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "ARANCINI 4 PZ",
+    "descrizione": "Palle di riso fritto con ragù, mozzarella, prosciutto cotto, piselli e zafferano",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "CROCCHE’ 4 PZ",
+    "descrizione": "Patate schiacciate, uova, formaggio, sale e pepe",
+    "prezzo_eur": 5.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "Á BRUSCHETTA",
+    "descrizione": "",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "LA PARMIGIANA DI MELANZANE",
+    "descrizione": "",
+    "prezzo_eur": 9.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "ZEPPOLINE ALLE ALGHE (circa 10 pezzi)",
+    "descrizione": "Pasta cresciuta con lattuga di mare (alghe marine certifcate)",
+    "prezzo_eur": 5.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "BRUSCHETTE MISTE",
+    "descrizione": "Quattro bruschette di pane grigliato, miste mare e monti: Salmone marinato e cipolla di Tropea candita / Melanzane a funghetto e provola DOP / Zucchine alla scapece e gamberetti / Pancetta di Agerola con pomodorini secchi e provolone del monaco",
+    "prezzo_eur": 8.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "MONTANARE CLASSICHE 3PZ",
+    "descrizione": "Tre pizzette fritte con pomodoro San Marzano, basilico e Parmigiano Reggiano",
+    "prezzo_eur": 6.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "MONTANARE DEL PIENNOLO 3PZ",
+    "descrizione": "Tre pizzette fritte con pomodoro giallo del Piennolo del Vesuvio e acciughe del Cilento",
+    "prezzo_eur": 8.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "IL CUOPPO",
+    "descrizione": "Crocchè / Arancini / Mozzarelline fritte / Zeppoline alle alghe / Frittata di bucatini",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "NORD&SUD",
+    "descrizione": "Focaccia farcita con prosciutto di Parma, bocconcini di bufala DOP e rucola",
+    "prezzo_eur": 16.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "LA BUFALA DA 250G",
+    "descrizione": "Mozzarella di bufala DOP da 250g con pomodorini di Paestum, rucola, olio EVO “Il Vecchio Oliveto”, sale e basilico",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "FRITTATINE DI BUCATINI 4 PZ",
+    "descrizione": "",
+    "prezzo_eur": 5.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "GLI SFIZI",
+    "nome": "Mozzarelline Fritte pz.5",
+    "descrizione": "",
+    "prezzo_eur": 5.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "PANUOZZI",
+    "nome": "PALINURO",
+    "descrizione": "Mozzarella di bufala DOP, insalata, fletto di pomodoro e crudo di Parma",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "PANUOZZI",
+    "nome": "AGROPOLI",
+    "descrizione": "Fior di latte di Agerola, scarola saltata in padella con acciughe, capperi e olive taggiasche, aglio e olio EVO “Il Vecchio Oliveto”",
+    "prezzo_eur": 10.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "PANUOZZI",
+    "nome": "CAFASSO",
+    "descrizione": "Fior di latte di Agerola, provola, salsiccia, friarielli (inforescienze di cime di rapa) saltati con aglio, olio EVO e peperoncino",
+    "prezzo_eur": 10.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "CONTORNI ",
+    "nome": "PATATE FRITTE",
+    "descrizione": "",
+    "prezzo_eur": 4.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "CONTORNI ",
+    "nome": "SCAROLA",
+    "descrizione": "Scarola saltata in padella con con aglio, olio EVO “Il Vecchio Oliveto”, acciughe, capperi e olive taggiasche",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "CONTORNI ",
+    "nome": "MELANZANE A FUNGHETTO",
+    "descrizione": "Melanzane fritte con pomodorini e basilico",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "CONTORNI ",
+    "nome": "INSALATA DI RUCOLA ARANCE E NOCI",
+    "descrizione": "",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "CONTORNI ",
+    "nome": "FRIARELLI",
+    "descrizione": "(inforescienze di cime di rapa) saltati con aglio, olio EVO e peperoncino ",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "Zeppole alla Nutella",
+    "descrizione": "",
+    "prezzo_eur": 6.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "LE GRAFFE",
+    "descrizione": "Morbide ciambelle fritte con “Nutella” e zucchero a velo ",
+    "prezzo_eur": 6.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "DELIZIA AL LIMONE",
+    "descrizione": "Tipico dolce di Sorrento a base di pan di spagna e ricoperto di crema ai limoni di Sorrento",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "PASTIERA NAPOLETANA",
+    "descrizione": "La più antica ricetta della pastiera napoletana, con grano cotto e ricotta ‘’fatta dai nostri Chef’’",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "BABÀ",
+    "descrizione": "",
+    "prezzo_eur": 6.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "CHEESECAKE",
+    "descrizione": "Delizioso dolce fatto in casa con base di biscotto classico “Digestive’’, con crema di ricotta vaccina, guarnito al gusto di cioccolato o caramello o frutta di stagione",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "PANNA COTTA",
+    "descrizione": "Dolce fatto in casa, guarnito al gusto di cioccolato o caramello o frutta di stagione",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "PROFITEROLES - Copy",
+    "descrizione": "Bignè ripieno di panna e ricoperto di cioccolato fondente",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "PANNA COTTA",
+    "descrizione": "Dolce fatto in casa, guarnito al gusto di cioccolato o caramello o frutta di stagione",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "TIRAMISÙ",
+    "descrizione": "",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "RICOTTA E PERE",
+    "descrizione": "Dolce tipico della Costiera Amalfitana, con cialda alla nocciola ricotta di bufala DOP e pere Abate",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "PROFITEROLES",
+    "descrizione": "Bignè ripieno di panna e ricoperto di cioccolato fondente",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "PANNA COTTA (SENZA GLUTINE)",
+    "descrizione": "",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "DOLCI",
+    "nome": "TORTINO CUORE CALDO fondente",
+    "descrizione": "",
+    "prezzo_eur": 6.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BAR ",
+    "nome": "BIBITE IN LATTINA (0,33 lt.)",
+    "descrizione": "",
+    "prezzo_eur": 3.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BAR ",
+    "nome": "BIBITE IN VETRO (0,33 lt.)",
+    "descrizione": "",
+    "prezzo_eur": 3.5,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BAR ",
+    "nome": "ACQUA PLASTICA (0,5 di lt.)",
+    "descrizione": "",
+    "prezzo_eur": 1.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "MORETTI IPA (33cl)",
+    "descrizione": "",
+    "prezzo_eur": 4.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "MORETTI FILTRATA A FREDDO (33cl)",
+    "descrizione": "Lager beer 4,3% vol",
+    "prezzo_eur": 3.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "BIRRA MESSINA CRISTALLI DI SALE (33cl)",
+    "descrizione": "Lager beer 5% vol",
+    "prezzo_eur": 4.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "HEINEKEN (33cl)",
+    "descrizione": "Lager Plus 4% vol.",
+    "prezzo_eur": 3.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "ICHNUSA NON FILTRATA (50 cl)",
+    "descrizione": "Lager beer 5% vol.",
+    "prezzo_eur": 4.5,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "BIRRA MORETTI ZERO (33 cl)",
+    "descrizione": "Lager beer 0,05% vol. ANALCOLICA",
+    "prezzo_eur": 4.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "RADLER (33 cl)",
+    "descrizione": "Bevanda leggermente alcolica 2% vol.",
+    "prezzo_eur": 4.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "DAURA GLUTEN FREE (33 cl)",
+    "descrizione": "Lager beer 5,4% vol",
+    "prezzo_eur": 4.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "Birra Moretti Bionda Lattina Cl.33",
+    "descrizione": "",
+    "prezzo_eur": 3.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "BIRRE",
+    "nome": "BAFFO D’ORO (33cl)",
+    "descrizione": "Lager beer 4,8% vol.",
+    "prezzo_eur": 4.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "OTELLO “200” LAMBRUSCO IGT",
+    "descrizione": "Vol. 11% Cantina Ceci (PR)",
+    "prezzo_eur": 15.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "AGLIANICONE CASTEL SAN LORENZO IGP",
+    "descrizione": "Vol. 12,5% Donnachiara Avellino (AV) ",
+    "prezzo_eur": 15.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "CHIANTI CLASSICO DOCG",
+    "descrizione": "Vol. 13% Cantina Banf (SI)",
+    "prezzo_eur": 16.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "RUBRATO DOC IRPINIA",
+    "descrizione": "",
+    "prezzo_eur": 18.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "ROSSO DI MONTALCINO DOC",
+    "descrizione": "Sangiovese di Toscana Vol. 12,5% Cantina Banf (SI)",
+    "prezzo_eur": 24.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "JUNGANO IGP",
+    "descrizione": "Paestum Aglianico Vol. 14% Tenuta San Salvatore Stio (SA)",
+    "prezzo_eur": 26.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "PIGNOLETTO ARGO",
+    "descrizione": "Pignoletto dei Colli Bolognesi Vol. 11,5% Bacco&co (BO)",
+    "prezzo_eur": 12.0,
+    "esaurito": false,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "VINI",
+    "nome": "RIBOLLA GIALLA VIGNA DEL LAURO",
+    "descrizione": "Vol. 13% Friuli Venezia Giulia (GO) ",
+    "prezzo_eur": 20.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LA DISPENSA",
+    "nome": "PANELLA E PANE (FILONE DI PANE)",
+    "descrizione": "1 KG  DI PANE PRODOTTO CON FARINA CAPUTO E OLIO EXTRA VERGINE DI OLIVA  ACQUA E SALE",
+    "prezzo_eur": 4.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LA DISPENSA",
+    "nome": "Olio extra vergine di Oliva di Paestum (SA) 250 ml",
+    "descrizione": "",
+    "prezzo_eur": 5.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LA DISPENSA",
+    "nome": "Olio extra vergine di Oliva di Paestum (SA) 1 litro",
+    "descrizione": "",
+    "prezzo_eur": 14.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LA DISPENSA",
+    "nome": "Olio extra vergine di Oliva di Paestum (SA) 5 litri",
+    "descrizione": "",
+    "prezzo_eur": 69.0,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LA DISPENSA",
+    "nome": "N'duja di Spilinga Callipo 200 gr",
+    "descrizione": "",
+    "prezzo_eur": 6.89,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  },
+  {
+    "categoria": "LA DISPENSA",
+    "nome": "Fresella Integrale 400 gr",
+    "descrizione": "",
+    "prezzo_eur": 4.9,
+    "esaurito": true,
+    "varianti": [],
+    "supplementi_disponibili": false
+  }
+]

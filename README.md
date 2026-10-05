@@ -74,3 +74,15 @@ Non è necessario modificare il dominio ufficiale del ristorante né il reposito
 - `CHECKS.md`: controlli svolti per questa preparazione.
 
 **Anteprima, non release di produzione:** l'app non è su Google Play ed è firmata per sviluppo. Non è stata testata su telefono Android reale. Non installabile su iPhone. Questa pagina non elimina i normali avvisi di sicurezza Android sugli APK esterni.
+
+## Aggiornamento web: menu demo e report
+
+- Hub del progetto: https://sumushihab-a11y.github.io/regina-sofia-app/regina-sofia/
+- Demo menu/carrello: https://sumushihab-a11y.github.io/regina-sofia-app/ordina/
+- Report e dati: https://sumushihab-a11y.github.io/regina-sofia-app/report/
+
+Il frontend `ordina/` recupera il lavoro della sessione precedente: ricerca, categorie, preferiti, filtro esauriti, supplementi, quantità, carrello locale e riepilogo copiabile/scaricabile. Non invia ordini, non gestisce pagamenti e non trasferisce il carrello al servizio ufficiale. Dati conservati dalla rilevazione del 05/10/2026: 98 voci e 49 supplementi, non sincronizzati in tempo reale.
+
+`report/` contiene il report preesistente, JSON, CSV e generatore; la metodologia e i limiti dei test storici sono descritti in `report/README.md`. GitHub Pages include ora entrambi i percorsi. Il service worker include la demo per la consultazione offline dopo il caricamento completo.
+
+**APK e archivio Android invariati:** sono i file della precedente anteprima; non incorporano la nuova demo web. Non è stata generata né testata una nuova build Android in questo aggiornamento.
