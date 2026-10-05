@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#6f1930">
+<title>Regina Sofia — Anteprima Android</title>
+<style>
+:root{--cream:#fbf4e7;--paper:#fffaf1;--wine:#6f1930;--wine2:#481020;--ink:#302126;--muted:#6d5b60;--line:#e6d3c7;--ok:#f3e4e6}*{box-sizing:border-box}body{margin:0;background:var(--cream);color:var(--ink);font:16px/1.55 system-ui,-apple-system,"Segoe UI",sans-serif}main{width:min(720px,calc(100% - 28px));margin:auto;padding:34px 0 40px}.card{background:var(--paper);border:1px solid var(--line);border-radius:22px;padding:clamp(22px,6vw,42px);box-shadow:0 12px 34px #48102012}.brand{display:flex;align-items:center;gap:13px;margin-bottom:30px}.brand img{width:54px;height:54px;object-fit:contain}.brand span{font-weight:750;color:var(--wine);letter-spacing:.02em}.eyebrow{color:var(--wine);font-size:.78rem;font-weight:800;text-transform:uppercase;letter-spacing:.12em}h1{font-family:Georgia,serif;color:var(--wine2);font-size:clamp(2.25rem,9vw,4rem);line-height:.98;margin:.35rem 0 1rem}p{margin:.7rem 0}.lead{font-size:1.1rem;color:var(--muted);max-width:55ch}.notice{margin:24px 0;padding:16px 17px;background:var(--ok);border-left:4px solid var(--wine);border-radius:10px}.notice strong{color:var(--wine2)}.actions{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin:24px 0 10px}.btn{display:flex;align-items:center;justify-content:center;min-height:48px;padding:11px 16px;border:2px solid var(--wine);border-radius:12px;background:var(--wine);color:#fff;text-decoration:none;font:700 .95rem system-ui;cursor:pointer;text-align:center}.btn.secondary{background:transparent;color:var(--wine)}.btn:focus-visible{outline:3px solid #bf8b4a;outline-offset:3px}.fine{font-size:.9rem;color:var(--muted)}hr{border:0;border-top:1px solid var(--line);margin:27px 0 20px}.share{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.share button{border:0;background:none;color:var(--wine);font:700 .95rem system-ui;text-decoration:underline;cursor:pointer;padding:7px 0}.status{font-size:.9rem;color:var(--muted)}@media(max-width:520px){main{padding:16px 0 28px}.card{border-radius:17px}.actions{grid-template-columns:1fr}.brand{margin-bottom:24px}}@media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<main>
+<section class="card" aria-labelledby="titolo">
+<div class="brand"><img src="../assets/logo.png" alt="Logo Regina Sofia"><span>Regina Sofia</span></div>
+<div class="eyebrow">Anteprima Android</div>
+<h1 id="titolo">Prova Regina Sofia</h1>
+<p class="lead">Scarica l’APK di anteprima sul tuo dispositivo Android, senza creare un account per il download. Oppure apri direttamente il sito, senza installare nulla.</p>
+<div class="notice" role="note"><strong>Prima di scaricare:</strong> questa è un’anteprima, non è disponibile su Google Play e non è stata testata su un telefono reale. L’APK è esclusivamente per Android e non funziona su iPhone.</div>
+<div class="actions">
+<a class="btn" href="../downloads/Regina-Sofia-anteprima.apk" download>Scarica APK Android</a>
+<a class="btn secondary" href="../index.html">Apri il sito senza installazione</a>
+</div>
+<p class="fine">File APK · 5,5 MB · <a href="../downloads/SHA256SUMS.txt">Verifica SHA-256</a></p>
+<p class="fine">Il browser o Android potrebbero chiederti una conferma prima di installare un APK scaricato fuori da Google Play.</p>
+<hr>
+<div class="share"><button type="button" id="share">Condividi il link di questa pagina</button><span class="status" id="status" aria-live="polite"></span></div>
+</section>
+</main>
+<script>
+(function(){var b=document.getElementById('share'),s=document.getElementById('status');b.addEventListener('click',async function(){var url=window.location.href;try{if(navigator.share){await navigator.share({title:document.title,url:url});s.textContent='Link condiviso.';return}if(navigator.clipboard&&window.isSecureContext){await navigator.clipboard.writeText(url);s.textContent='Link copiato.';return}var t=document.createElement('textarea');t.value=url;t.setAttribute('readonly','');t.style.position='fixed';t.style.opacity='0';document.body.appendChild(t);t.select();var ok=document.execCommand('copy');t.remove();s.textContent=ok?'Link copiato.':'Copia il link dalla barra del browser.'}catch(e){if(e&&e.name==='AbortError')return;s.textContent='Copia il link dalla barra del browser.'}})})();
+</script>
+</body>
+</html>

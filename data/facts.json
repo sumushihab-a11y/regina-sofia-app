@@ -1,0 +1,19 @@
+{
+  "name": "Regina Sofia",
+  "type": "Ristorante e pizzeria",
+  "city": "Bologna",
+  "address": "Via Clavature 1/c – Via de’ Musei, 9",
+  "phone": "+39 051 221142",
+  "email": "info@reginasofia.it",
+  "vatNumber": "03501331205",
+  "openingHoursSourceText": "Lunedì - Domenica 12:00 - 23:30",
+  "website": "https://www.reginasofia.it/",
+  "menuSource": "https://www.reginasofia.it/menu-regina-sofia/",
+  "delivery": "https://delivery.reginasofia.it/",
+  "map": "https://goo.gl/maps/nex4R52RMRVnH6Qk6",
+  "guestHouse": "https://regina-sofia.amenitiz.io/it",
+  "instagram": "https://www.instagram.com/reginasofiabologna/",
+  "facebook": "https://www.facebook.com/reginasofiatrattoriaepizzeria",
+  "snapshotOnly": true,
+  "bookingMethodInPreview": "Telefono o richiesta da inviare tramite app email del cliente; conferma del ristorante necessaria."
+}

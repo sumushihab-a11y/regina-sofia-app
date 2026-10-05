@@ -1,0 +1,31 @@
+# Credenziali e configurazioni locali
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+*.pem
+*.key
+local.properties
+.sohoj*
+
+# Build Android e risorse web generate
+.gradle/
+**/build/
+android/app/src/main/assets/www/
+
+# Tool locali, test e editor
+node_modules/
+.venv/
+__pycache__/
+.cache/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+
+# Output di deploy e copie del repository
+_site/
+*.bundle
+# L'APK di anteprima e lo zip sorgente in downloads/ sono intenzionalmente versionati.

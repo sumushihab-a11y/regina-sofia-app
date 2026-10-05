@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "Regina Sofia · Bologna",
+  "short_name": "Regina Sofia",
+  "description": "Il menù, i tuoi preferiti e i contatti del ristorante Regina Sofia a Bologna.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f6ef",
+  "theme_color": "#722e32",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
